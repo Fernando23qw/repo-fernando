@@ -1,3 +1,3 @@
-nombre = luz
-apellido = Giral
+nombre = "str"
+apellido = "Giral"
 print ("hola" + nombre + apellido)

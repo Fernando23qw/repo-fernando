@@ -1,2 +1,3 @@
 nombre = luz
-print ("hola" + nombre)
+apellido = Giral
+print ("hola" + nombre + apellido)

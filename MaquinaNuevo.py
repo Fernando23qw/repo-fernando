@@ -7,7 +7,7 @@ def saludo(nombre2):    #aqui recibe el argumento que le pasamos al llamar a la 
     print("Bienvenido al comedor.")
 while True:
     contrseña = int(input("Por favor, la contraseña para entrar al comedor: "))
-    if contrseña == 1234:
+    if contrseña == 12345:
         print("Contraseña correcta. Ahora ingresa tu nombre para saludarte.")
         break
     else:

@@ -1,5 +1,5 @@
-# fernando0-proyecto
-Primer repo de git hub
+# fernando0
+git hub
 
 ## descrpcion
-Repositorio de fernando, credo del curso de git
+Repositorio de fernando 
